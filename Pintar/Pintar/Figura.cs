@@ -38,21 +38,20 @@ namespace WindowsFormsApplication1
         public override void Dibuja(Form f)
         {
             Graphics g = f.CreateGraphics();
-            g.DrawRectangle(pluma, X, Y, ancho, largo);
         }
 
     }
 
-    class Elipse : Figura
+    class Circulo : Figura
     {
-        public Elipse (int x, int y):base(x,y)
+        public Circulo(int x, int y)
+            : base(x, y)
     {
 
     }
         public override void  Dibuja(Form f)
 {
  	Graphics g = f.CreateGraphics();
-    g.DrawEllipse(pluma, X, Y, ancho, largo);
 }
 
     }

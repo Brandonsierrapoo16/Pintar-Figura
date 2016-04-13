@@ -19,10 +19,12 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             figura_actual = TipoFigura.Circulo;
-            circuloToolStripMenuItem.Checked = true;
-
+            
             figuras = new List<Figura>();
             InitializeComponent();
+
+            circuloToolStripMenuItem.Checked = true;
+
         }
 
        

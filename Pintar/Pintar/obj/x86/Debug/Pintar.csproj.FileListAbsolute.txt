@@ -1,0 +1,7 @@
+C:\Users\Brandon Brian\Documents\GitHub\Pintar-Figura\Pintar\Pintar\bin\Debug\Pintar.exe
+C:\Users\Brandon Brian\Documents\GitHub\Pintar-Figura\Pintar\Pintar\bin\Debug\Pintar.pdb
+C:\Users\Brandon Brian\Documents\GitHub\Pintar-Figura\Pintar\Pintar\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Brandon Brian\Documents\GitHub\Pintar-Figura\Pintar\Pintar\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Brandon Brian\Documents\GitHub\Pintar-Figura\Pintar\Pintar\obj\x86\Debug\Pintar.csproj.GenerateResource.Cache
+C:\Users\Brandon Brian\Documents\GitHub\Pintar-Figura\Pintar\Pintar\obj\x86\Debug\Pintar.exe
+C:\Users\Brandon Brian\Documents\GitHub\Pintar-Figura\Pintar\Pintar\obj\x86\Debug\Pintar.pdb
